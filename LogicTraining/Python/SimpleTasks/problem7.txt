@@ -1,0 +1,14 @@
+Write A Python Program to Get Number From the User, And Display 1 until 10 * number and the result
+Expected result:
+
+Enter number: 5
+1 * 5 = 5
+2 * 5 = 10
+3 * 5 = 15
+4 * 5 = 20
+5 * 5 = 25
+6 * 5 = 30
+7 * 5 = 35
+8 * 5 = 40
+9 * 5 = 45
+10 * 5 = 50

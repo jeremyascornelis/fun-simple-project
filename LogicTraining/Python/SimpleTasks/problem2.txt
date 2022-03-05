@@ -1,0 +1,5 @@
+Write a python program to take age from the user to check whether user able to participate in voting or not.
+If age is less than 18 then it don't allow to participation. And show, after how much year a person will be able to participate:
+
+Expected result if user input 10 year then:
+Sorry! You can't participate in voting, you will be able to participate after 8 year

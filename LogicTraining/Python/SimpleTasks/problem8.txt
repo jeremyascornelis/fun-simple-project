@@ -1,0 +1,1 @@
+Write A Python Program to get 6 subject marks from the user and calculate total and average of that mark. And display to user.
